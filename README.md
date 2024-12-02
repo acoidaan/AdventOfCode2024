@@ -5,7 +5,8 @@ Mi primera participación en Advent Of Code.
 
 ## Lista de problemas
 
-- [Día 1](https://adventofcode.com/2024/day/1)
+- [x] [Día 1](https://adventofcode.com/2024/day/1)
+- [ ] [Día 2](https://adventofcode.com/2024/day/2)
 
 Cargando el resto de días...
 
