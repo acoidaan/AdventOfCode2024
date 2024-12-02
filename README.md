@@ -3,6 +3,8 @@
 
 Mi primera participación en Advent Of Code.
 
+![gif](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMxMzc1NTQsIm5iZiI6MTczMzEzNzI1NCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjAyVDExMDA1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI4YWYyNzZkZjlkZDEyMjMwMDI3ZGRiZjgxYTUxN2QzN2E1ZTQ0YTI4YTE2Yzg2OTRlYjU4NDMwZjgzZjllZTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6d6FYwNbSHeR3V3whlIhaqnBT4mCuLtWnyXGhqK4Q3E)
+
 ## Lista de problemas
 
 - [x] [Día 1](https://adventofcode.com/2024/day/1)
@@ -30,8 +32,6 @@ Mi primera participación en Advent Of Code.
 - [ ] [Día 23](https://adventofcode.com/2024/day/23)
 - [ ] [Día 24](https://adventofcode.com/2024/day/24)
 - [ ] [Día 25](https://adventofcode.com/2024/day/25)
-
-Cargando el resto de días...
 
 ## Autor
 
