@@ -1,0 +1,45 @@
+.monaco-workbench .part.title {
+  height: 36px !important;
+}
+
+/* Usar la fuente "Inter" para la barra lateral, encabezados y menús */
+.monaco-workbench .part.sidebar,
+.monaco-workbench .part.activitybar,
+.monaco-workbench .part.title,
+.monaco-list-row {
+    font-family: "Inter", !important;
+}
+
+/* Usar la fuente "Cascadia Code" para el código y la consola */
+.monaco-editor,
+.monaco-workbench .output .monaco-editor,
+.terminal .xterm {
+    font-family: 'Cascadia Code', monospace !important;
+}
+.title-label > h2 {
+  display: none !important;
+}
+
+.editor-actions {
+  display: none !important;
+}
+
+.nosidebar .inline-tabs-placeholder {
+  width: 75px !important;
+}
+
+.pane-header {
+  padding: 0 8px !important;
+}
+
+.pane-body {
+  padding: 8px !important;
+}
+
+.monaco-list-row {
+  border-radius: 4px !important;
+}
+
+.monaco-workbench .monaco-list:not(.element-focused)::before {
+  display: none !important;
+}
