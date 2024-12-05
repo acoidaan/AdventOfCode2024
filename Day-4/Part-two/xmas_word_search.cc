@@ -1,8 +1,8 @@
+#include <array>
 #include <fstream>
 #include <iostream>
 #include <string>
 #include <vector>
-#include <array>
 
 class XmasSearchSolver {
  public:
