@@ -55,3 +55,8 @@
   background-size: contain !important;
   max-width: 75%; 
 }
+
+.terminal {
+  padding-top: 15px !important;
+}
+
