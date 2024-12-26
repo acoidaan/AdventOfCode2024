@@ -4,9 +4,9 @@
 #include <string>
 #include <vector>
 
-class DiksDefragmenter {
+class DiskDefragmenter {
  public:
-  explicit DiksDefragmenter(const std::string& disk_map)
+  explicit DiskDefragmenter(const std::string& disk_map)
       : disk_map_(disk_map) {}
 
   std::vector<int> ParseBlocks() {
@@ -101,7 +101,7 @@ int main(int argc, char* argv[]) {
   std::string input;
   std::getline(input_file, input);
 
-  DiksDefragmenter defragmenter(input);
+  DiskDefragmenter defragmenter(input);
   std::cout << defragmenter.Solve() << std::endl;
 
   return 0;
